@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&family=Josefin+Sans&family=Lato&family=Montserrat&family=Noto+Serif+Bengali&family=Nunito&family=Open+Sans:wght@300&family=Oxygen&family=Poppins:ital,wght@0,300;0,400;0,500;1,400&family=Roboto:wght@500&display=swap');
+*{
+  font-family: 'Oxygen', sans-serif;
+  background: #E5E5E5;
+}
+
+.navbar-brand{
+  padding-left: 200px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.navbar-nav{
+  padding-right: 200px;
+  font-size: 22px;
+  font-weight: bolder;
+}
+.carousel-inner h5{
+  font-size: 50px;
+  margin-bottom: 2rem;
+}
+.carousel-inner p{
+  font-size: 25px;
+  margin-bottom: 2rem;
+}
