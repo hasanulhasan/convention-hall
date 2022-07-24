@@ -21,3 +21,14 @@
   font-size: 25px;
   margin-bottom: 2rem;
 }
+.card li i{
+  background: rgba(82, 67, 194, 0.103693);
+}
+.card li i{
+  color: #5243C2;
+}
+.card button{
+  background: #f496d284;
+  color: blue;
+}
+
